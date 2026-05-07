@@ -1,0 +1,72 @@
+[
+    {
+        "sent_id": 144267,
+        "original_sentence": "guy in middle cutting cake head",
+        "ans": "no",
+        "part": "",
+        "whole": "guy in middle cutting cake head"
+    },
+    {
+        "sent_id": 144152,
+        "original_sentence": "man on right riding horse head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "man on right riding horse"
+    },
+    {
+        "sent_id": 144009,
+        "original_sentence": "man sitting on front of bike body",
+        "ans": "no",
+        "part": "",
+        "whole": "man sitting on front of bike body"
+    },
+    {
+        "sent_id": 144011,
+        "original_sentence": "man sitting on front of bike head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "bike"
+    },
+    {
+        "sent_id": 144012,
+        "original_sentence": "guy on the bike head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "guy on the bike"
+    },
+    {
+        "sent_id": 143981,
+        "original_sentence": "one on right head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "one on right"
+    },
+    {
+        "sent_id": 143954,
+        "original_sentence": "atlanta player to the right head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "atlanta player to the right"
+    },
+    {
+        "sent_id": 143785,
+        "original_sentence": "girl holding chin hand",
+        "ans": "yes",
+        "part": "hand",
+        "whole": "girl holding chin"
+    },
+    {
+        "sent_id": 143767,
+        "original_sentence": "giraffe on the left head",
+        "ans": "no",
+        "part": "",
+        "whole": "giraffe on the left head"
+    },
+    {
+        "sent_id": 143754,
+        "original_sentence": "white truck in centerbackground window",
+        "ans": "no",
+        "part": "",
+        "whole": "white truck in centerbackground window"
+    }
+]

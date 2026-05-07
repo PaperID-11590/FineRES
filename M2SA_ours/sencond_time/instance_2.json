@@ -1,0 +1,93 @@
+[
+    {
+        "sent_id": 142750,
+        "original_sentence": "head of man on right",
+        "ans": "yes",
+        "part": "head",
+        "whole": "man on right"
+    },
+    {
+        "sent_id": 142531,
+        "original_sentence": "head with long hair of woman in fancy color",
+        "ans": "yes",
+        "part": "head with long hair",
+        "whole": "woman in fancy color"
+    },
+    {
+        "sent_id": 142528,
+        "original_sentence": "arm with long hair of woman in fancy color",
+        "ans": "no",
+        "part": "",
+        "whole": "arm with long hair of woman in fancy color"
+    },
+    {
+        "sent_id": 142574,
+        "original_sentence": "man torso to left of red umbrella",
+        "ans": "no",
+        "part": "",
+        "whole": "man torso to left of red umbrella"
+    },
+    {
+        "sent_id": 142644,
+        "original_sentence": "man head in back middle purple shirt",
+        "ans": "yes",
+        "part": "head",
+        "whole": "man in back middle purple shirt"
+    },
+    {
+        "sent_id": 142673,
+        "original_sentence": "body of woman wearing scarf arms crossed to the left",
+        "ans": "no",
+        "part": "",
+        "whole": "body of woman wearing scarf arms crossed to the left"
+    },
+    {
+        "sent_id": 142674,
+        "original_sentence": "body of woman making a face",
+        "ans": "no",
+        "part": "",
+        "whole": "body of woman making a face"
+    },
+    {
+        "sent_id": 142679,
+        "original_sentence": "head of woman wearing scarf arms crossed to the left",
+        "ans": "no",
+        "part": "",
+        "whole": "head of woman wearing scarf arms crossed to the left"
+    },
+    {
+        "sent_id": 142680,
+        "original_sentence": "head of woman making a face",
+        "ans": "yes",
+        "part": "head",
+        "whole": "woman making a face"
+    },
+    {
+        "sent_id": 144951,
+        "original_sentence": "hat guy in crowd hand",
+        "ans": "no",
+        "part": "",
+        "whole": "hat guy in crowd hand"
+    },
+    {
+        "sent_id": 145033,
+        "original_sentence": "torso of man mirror reflection",
+        "ans": "no",
+        "part": "",
+        "whole": "torso of man mirror reflection"
+    },
+    {
+        "sent_id": 145034,
+        "original_sentence": "mirror image of guy torso",
+        "ans": "no",
+        "part": "",
+        "whole": "mirror image of guy torso"
+    },
+    {
+        "sent_id": 145035,
+        "original_sentence": "torso of person in mirror left",
+        "ans": "yes",
+        "part": "torso",
+        "whole": "person in mirror left"
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "144267": {
+        "sent_id": 144267,
+        "original_sentence": "guy in middle cutting cake head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "guy in middle cutting cake"
+    },
+    "144152": {
+        "sent_id": 144152,
+        "original_sentence": "man on right riding horse head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "man on right riding horse"
+    },
+    "144009": {
+        "sent_id": 144009,
+        "original_sentence": "man sitting on front of bike body",
+        "ans": "yes",
+        "part": "body",
+        "whole": "man sitting on front of bike"
+    },
+    "144011": {
+        "sent_id": 144011,
+        "original_sentence": "man sitting on front of bike head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "man sitting on front of bike"
+    },
+    "144012": {
+        "sent_id": 144012,
+        "original_sentence": "guy on the bike head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "guy on the bike"
+    },
+    "143981": {
+        "sent_id": 143981,
+        "original_sentence": "one on right head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "one on right"
+    },
+    "143954": {
+        "sent_id": 143954,
+        "original_sentence": "atlanta player to the right head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "atlanta player to the right"
+    },
+    "143785": {
+        "sent_id": 143785,
+        "original_sentence": "girl holding chin hand",
+        "ans": "yes",
+        "part": "hand",
+        "whole": "girl holding chin"
+    },
+    "143767": {
+        "sent_id": 143767,
+        "original_sentence": "giraffe on the left head",
+        "ans": "yes",
+        "part": "head",
+        "whole": "giraffe on the left"
+    },
+    "143754": {
+        "sent_id": 143754,
+        "original_sentence": "white truck in centerbackground window",
+        "ans": "yes",
+        "part": "window",
+        "whole": "white truck in centerbackground"
+    }
+}

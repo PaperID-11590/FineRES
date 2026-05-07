@@ -1,0 +1,37 @@
+{
+    "143754": {
+        "sent_id": 143754,
+        "original_sentence": "center white truck window",
+        "ans": "yes",
+        "part": "window",
+        "whole": "center white truck"
+    },
+    "143755": {
+        "sent_id": 143755,
+        "original_sentence": "rear white truck window behind the suited man",
+        "ans": "yes",
+        "part": "window",
+        "whole": "rear white truck behind the suited man"
+    },
+    "142657": {
+        "sent_id": 142657,
+        "original_sentence": "silver computer keyboard on right",
+        "ans": "yes",
+        "part": "keyboard",
+        "whole": "silver computer on right"
+    },
+    "142658": {
+        "sent_id": 142658,
+        "original_sentence": "opening laptop keyboard in front",
+        "ans": "yes",
+        "part": "keyboard",
+        "whole": "opening laptop in front"
+    },
+    "142659": {
+        "sent_id": 142659,
+        "original_sentence": "the closet opening laptop keyboard",
+        "ans": "yes",
+        "part": "keyboard",
+        "whole": "the closet opening laptop"
+    }
+}

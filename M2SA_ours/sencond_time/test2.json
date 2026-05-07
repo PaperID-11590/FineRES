@@ -1,0 +1,9 @@
+[
+    {
+        "sent_id": 143754,
+        "original_sentence": "white truck in centerbackground window",
+        "ans": "yes",
+        "part": "window",
+        "whole": "white truck in centerbackground"
+    }
+]
